@@ -1,4 +1,4 @@
-# ¡Hola! Soy Juan Andrés Cárdenas Álvarez 👋
+# ¡Hola! Soy Juan Andrés  👋
 
 Estudiante de **Ingeniería de Sistemas y Computación** en la Universidad Tecnológica de Pereira (UTP) 🇨🇴. Apasionado por la Inteligencia Artificial, la Electrónica Digital, el desarrollo de software y el modelado computacional.
 
